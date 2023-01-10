@@ -10,7 +10,7 @@
     "@cerbos/sdk": "^0.4.1",
     "@magic-sdk/admin": "^1.0.0",
     "cookie-parser": "~1.4.4",
-    "debug": "~2.6.9",
+    "debug": "~3.1.0",
     "dotenv": "^10.0.0",
     "ejs": "3.1.7",
     "express": "~4.16.1",
